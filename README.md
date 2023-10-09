@@ -27,7 +27,7 @@ This user style will be applied to all chat at [Poe.com](https://poe.com/)
 
 
 
-To install the style, go to this [LINK HERE](https://userstyles.world/style/12183/google-bard-gruvbox-dark-theme-enable-dark-mode)) and follow the instructions to install this style. 
+To install the style, go to this [LINK HERE](https://userstyles.world/style/12432/poe-wider-response-window) and follow the instructions to install this style. 
 
 
 
@@ -43,6 +43,7 @@ Enjoy using the style!
 
 ### Wider Context window 
 
+![Screenshot 2023-10-09 143516](https://github.com/bilalazh/Poe-Wider-Response-Window/assets/139261053/2b741500-0a24-40ac-bda0-a01bfb090fa2)
 
 
 

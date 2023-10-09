@@ -49,9 +49,9 @@ Enjoy using the style!
 
 ## How to edit Width <a name="Howto-edit"></a>
 if you want to make any edits 
-click on the edit icon 
+- click on the edit icon 
 
-![image](https://github.com/bilalazh/Google-Bard-Gruvbox-Dark/assets/139261053/26af6c79-2b08-47de-a57e-6f399457763a)
+
  and you should be able to  make the changes to width property  `max-width: 1200px !important;`  , `max-width: 110ch;`
  as you wish 
 

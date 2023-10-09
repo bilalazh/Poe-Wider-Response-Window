@@ -1,0 +1,49 @@
+/* ==UserStyle==
+@name           Poe Wide Response Window
+@namespace      github.com/Poe wide response windows 
+@version        1.0.0
+@description    Userstyle that lets you control the width of response area on poe.com
+@author         Bilalazh
+==/UserStyle== */
+
+@-moz-document url-prefix("https://poe.com/") {
+    [class^="ChatPageMain_container"], [class^="PageWithSidebarLayout_mainSection"], [class^="Message_humanMessageBubble"] {
+        width: 100vw !important;
+        max-width: 1200px !important;
+        box-sizing: border-box !important;
+    }
+
+    [class*="ChatMessageInputContainer_textArea"] > textarea, [class*="ChatMessageInputContainer_textArea"]:after {
+        width: 100vw !important;
+        max-height: 70vh !important;
+        box-sizing: border-box !important;
+    }
+    
+    /*The actual prompt container when you receive the response from the model*/
+    .Message_botMessageBubble__aYctV, .Message_humanMessageBubble__DtRxA {
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    padding: var(--pdl-spacing-sm) var(--pdl-spacing-lg);
+    border-radius: 12px;
+    font: var(--chat-bubble-font-families-text-base-normal);
+    word-break: break-word;
+    max-width: 110ch;
+        
+        
+}
+    /*Lower search button here and how the widthe can be efected here as well */
+      [class*="ChatMessageInputContainer_textArea"] > textarea, [class*="ChatMessageInputContainer_textArea"]:after {
+        width: 10vw !important;
+        max-height: 90vh !important;
+        box-sizing: border-box !important;
+    }
+    
+    /*Prompts inside the chat container*/
+    [class*="ChatMessageInputContainer_textArea"] > textarea, [class*="ChatMessageInputContainer_textArea"]:after {
+    width: 50vw !important;
+    max-height: 70vh !important;
+    box-sizing: border-box !important;
+}
+}
+

@@ -10,7 +10,7 @@
 
 ## Description <a name="description"></a>
 
-This user style will be applied to all chat at [Poe.com](https://poe.com/)
+This user style will be applied to all chat on [Poe.com](https://poe.com/)
  - This style will make the Query and response Bubble wider for better readability 
 
 

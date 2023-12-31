@@ -55,9 +55,12 @@ Enjoy using the style!
 if you want to make any edits 
 - click on the edit icon 
 
+change this property `--desktop-reading-column-max-width` from ``90`` to anything you like 
 
- and you should be able to  make the changes to width property  `max-width: 1200px !important;`  , `max-width: 110ch;`
- as you wish 
+>Tip : 
+You can adjust and see what works well for you in realtime
+
+
 
 #### Important : 
 - i have already selected reasonable defaults and the theme might break if you make too much changes 

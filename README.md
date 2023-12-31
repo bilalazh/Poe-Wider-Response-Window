@@ -64,13 +64,10 @@ You can adjust and see what works well for you in realtime
 
 #### Important : 
 - i have already selected reasonable defaults and the theme might break if you make too much changes 
-- if you break th theme read the instructions to fix it 
-- if theme breaks in future check for updates by going to edit page of theme 
+- if theme breaks in future check for updates by going to edit page of theme (i will continue to update this ) 
 
  > Note: code is commented so you can know what property you are editing 
 > if you break something you can reinstall the style
 > do not remove `!important` at the end of each line
 
 
-## Todo:
-update readme

@@ -64,3 +64,6 @@ if you want to make any edits
 > if you break something you can reinstall the style
 > do not remove `!important` at the end of each line
 
+
+## Todo:
+update readme

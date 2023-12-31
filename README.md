@@ -12,6 +12,8 @@
 
 This user style will be applied to all chat on [Poe.com](https://poe.com/)
  - This style will make the Query and response Bubble wider for better readability 
+- Style will be updated if there are any changes in the site's css 
+-Check the other Dark theme i made for  Poe.com that should serve similar functionality with better colors
 
 
 

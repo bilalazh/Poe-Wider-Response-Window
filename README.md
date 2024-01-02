@@ -45,7 +45,9 @@ Enjoy using the style!
 
 ### Wider Context window 
 
-![Screenshot 2023-10-09 143516](https://github.com/bilalazh/Poe-Wider-Response-Window/assets/139261053/2b741500-0a24-40ac-bda0-a01bfb090fa2)
+
+
+![poe wider context screenshot](https://github.com/bilalazh/Poe-Wider-Response-Window/assets/139261053/e891931a-4aaa-4cf0-8aac-0ff5ad3e9c74)
 
 
 
